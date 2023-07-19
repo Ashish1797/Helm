@@ -1,4 +1,4 @@
-# Create the helm chart
+# Create the Helm chart
 ```
 helm create webapp1
 ```
